@@ -3,9 +3,17 @@
 }
 
 body {
-  background-color: yellow;
+ 
 }
 
+
+
 .green {
-  color: green;
+  color: black;
+}
+.blue {
+  color:  green;
+}
+.violet {
+  color: blue;
 }

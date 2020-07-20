@@ -1,19 +1,6 @@
-.center {  
-  text-align: center
-}
-
 body {
- 
-}
-
-
-
-.green {
-  color: black;
-}
-.blue {
-  color:  green;
-}
-.violet {
-  color: blue;
+  text-align: center;
+  background-image: url('newspaper.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }

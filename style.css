@@ -4,3 +4,16 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+#abstract {
+  width:1000px;
+  text-align: justify;
+  margin: auto;
+  font-size: 1.1em;
+}
+
+#washpic {
+  position: absolute;
+  left: 50px;
+}
+
